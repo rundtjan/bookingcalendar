@@ -1,1 +1,1 @@
-This is lakanet. A simple app to book classrooms at the Swedish Adult Education Institute of Helsinki.
+An app to get an overview over bookings at The Swedish Adult Education Institute in Helsinki. Heavily relies on svg:s in the frontend. Also a learning experience in coding a view that gets built of from data. Node.js and MongoDb. Not that great session-management, but identified as low-risk.
